@@ -1,0 +1,148 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: F:\Dropbox\icmi2017
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8891/?token=4a4ed18ab166ee7cfddb13d58b8a592e5c3a9a11cd810ad7
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8891/?token=4a4ed18ab166ee7cfddb13d58b8a592e5c3a9a11cd810ad7
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'addbefore/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\addbefore\\addbefore.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\addbefore\\addbefore.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'autosavetime/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\autosavetime\\autosavetime.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\autosavetime\\autosavetime.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'autoscroll/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\autoscroll\\autoscroll.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\autoscroll\\autoscroll.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'chrome-clipboard/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\chrome-clipboard\\chrome-clipboard.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\chrome-clipboard\\chrome-clipboard.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'codefolding/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\codefolding\\codefolding.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\codefolding\\codefolding.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'code_font_size/code_font_size' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\code_font_size\\code_font_size.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\code_font_size\\code_font_size.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'code_prettify/2to3' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\code_prettify\\2to3.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\code_prettify\\2to3.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'code_prettify/autopep8' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\code_prettify\\autopep8.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\code_prettify\\autopep8.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'code_prettify/code_prettify' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\code_prettify\\code_prettify.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\code_prettify\\code_prettify.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'collapsible_headings/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\collapsible_headings\\collapsible_headings.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\collapsible_headings\\collapsible_headings.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'comment-uncomment/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\comment-uncomment\\comment-uncomment.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\comment-uncomment\\comment-uncomment.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'contrib_nbextensions_help_item/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\contrib_nbextensions_help_item\\contrib_nbextensions_help_item.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\contrib_nbextensions_help_item\\contrib_nbextensions_help_item.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'datestamper/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\datestamper\\main.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\datestamper\\main.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'dragdrop/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\dragdrop\\dragdrop.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\dragdrop\\dragdrop.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'equation-numbering/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\equation-numbering\\info.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\equation-numbering\\info.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'execute_time/ExecuteTime' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\execute_time\\ExecuteTime.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\execute_time\\ExecuteTime.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'exercise/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\exercise\\exercise.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\exercise\\exercise.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'exercise2/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\exercise2\\exercise2.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\exercise2\\exercise2.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'freeze/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\freeze\\config.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\freeze\\config.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'gist_it/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\gist_it\\gist_it.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\gist_it\\gist_it.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'help_panel/help_panel' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\help_panel\\help_panel.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\help_panel\\help_panel.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'hide_header/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\hide_header\\hide_header.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\hide_header\\hide_header.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'hide_input/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\hide_input\\hide-input.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\hide_input\\hide-input.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'hide_input_all/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\hide_input_all\\hide_input_all.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\hide_input_all\\hide_input_all.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'highlighter/highlighter' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\highlighter\\highlighter.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\highlighter\\highlighter.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'highlight_selected_word/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\highlight_selected_word\\configurator.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\highlight_selected_word\\configurator.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'hinterland/hinterland' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\hinterland\\hinterland.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\hinterland\\hinterland.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'init_cell/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\init_cell\\init_cell.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\init_cell\\init_cell.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'keyboard_shortcut_editor/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\keyboard_shortcut_editor\\keyboard_shortcut_editor.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\keyboard_shortcut_editor\\keyboard_shortcut_editor.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'latex_envs/latex_envs' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\latex_envs\\latex_envs.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\latex_envs\\latex_envs.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'limit_output/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\limit_output\\limit-output.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\limit_output\\limit-output.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'move_selected_cells/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\move_selected_cells\\move_selected_cells.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\move_selected_cells\\move_selected_cells.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'navigation-hotkeys/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\navigation-hotkeys\\hotkeys.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\navigation-hotkeys\\hotkeys.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'nbTranslate/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\nbTranslate\\nbTranslate.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\nbTranslate\\nbTranslate.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'notify/notify' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\notify\\notify.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\notify\\notify.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'printview/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\printview\\printview.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\printview\\printview.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'python-markdown/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\python-markdown\\python-markdown.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\python-markdown\\python-markdown.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'qtconsole/qtconsole' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\qtconsole\\qtconsole.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\qtconsole\\qtconsole.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'rubberband/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\rubberband\\rubberband.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\rubberband\\rubberband.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'ruler/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\ruler\\ruler.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\ruler\\ruler.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'runtools/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\runtools\\runtools.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\runtools\\runtools.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'scroll_down/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\scroll_down\\config.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\scroll_down\\config.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'search-replace/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\search-replace\\search-replace.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\search-replace\\search-replace.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'select_keymap/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\select_keymap\\select_keymap.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\select_keymap\\select_keymap.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'skip-traceback/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\skip-traceback\\skip-traceback.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\skip-traceback\\skip-traceback.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'snippets/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\snippets\\snippets.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\snippets\\snippets.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'snippets_menu/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\snippets_menu\\config.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\snippets_menu\\config.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'spellchecker/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\spellchecker\\config.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\spellchecker\\config.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'splitcell/splitcell' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\splitcell\\splitcell.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\splitcell\\splitcell.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'table_beautifier/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\table_beautifier\\table_beautifier.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\table_beautifier\\table_beautifier.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'toc2/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\toc2\\toc2.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\toc2\\toc2.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'toggle_all_line_numbers/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\toggle_all_line_numbers\\main.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\toggle_all_line_numbers\\main.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'tree-filter/index' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\tree-filter\\tree-filter.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\tree-filter\\tree-filter.yaml'
+[NotebookApp | WARNING] [jupyter_nbextensions_configurator] nbextension 'zenmode/main' has duplicate listings in both 'C:\\ProgramData\\jupyter\\nbextensions\\zenmode\\zenmode.yaml' and 'c:\\conda3\\share\\jupyter\\nbextensions\\zenmode\\zenmode.yaml'
+[NotebookApp | WARNING] Notebook ProbabilisticFiltering.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/imgs/header.png (::1) 1.00ms
+[NotebookApp | INFO] 302 GET /notebooks/imgs/capture.png (::1) 1.00ms
+[NotebookApp | INFO] 302 GET /notebooks/imgs/brain_inference.png (::1) 1.00ms
+[NotebookApp | INFO] 302 GET /notebooks/imgs/undo.jpg (::1) 1.00ms
+[NotebookApp | INFO] 302 GET /notebooks/imgs/svm.jpg (::1) 1.00ms
+[NotebookApp | INFO] Kernel started: 44eb1c3e-e37e-4925-84a6-e07c5174ee83
+[NotebookApp | INFO] 302 GET /notebooks/imgs/gesture.png (::1) 1.00ms
+[NotebookApp | INFO] 302 GET /notebooks/imgs/control_loop.png (::1) 1.00ms
+[NotebookApp | INFO] 302 GET /notebooks/imgs/brainspace.png (::1) 1.00ms
+[NotebookApp | INFO] 302 GET /notebooks/imgs/stochastic.png (::1) 1.00ms
+[NotebookApp | INFO] 302 GET /notebooks/imgs/phase.gif (::1) 1.00ms
+[NotebookApp | INFO] 302 GET /notebooks/imgs/fwd_inv.png (::1) 1.00ms
+[NotebookApp | WARNING] 404 GET /notebooks/imgs/particleprocess.png (::1): No such file or directory: imgs/particleprocess.png
+[NotebookApp | WARNING] 404 GET /notebooks/imgs/particleprocess.png (::1) 6.02ms referer=http://localhost:8891/notebooks/ProbabilisticFiltering.ipynb
+[NotebookApp | INFO] Saving file at /ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/imgs/anglepose.jpg (::1): No such file or directory: imgs/anglepose.jpg
+[NotebookApp | WARNING] 404 GET /notebooks/imgs/anglepose.jpg (::1) 2.00ms referer=http://localhost:8891/notebooks/ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/imgs/landscape.png (::1): No such file or directory: imgs/landscape.png
+[NotebookApp | WARNING] 404 GET /notebooks/imgs/landscape.png (::1) 1.00ms referer=http://localhost:8891/notebooks/ProbabilisticFiltering.ipynb
+[NotebookApp | INFO] Saving file at /ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook ProbabilisticFiltering.ipynb
+[NotebookApp | INFO] Saving file at /ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook ProbabilisticFiltering.ipynb
+[NotebookApp | INFO] Saving file at /ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook ProbabilisticFiltering.ipynb
+[NotebookApp | INFO] Saving file at /ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook ProbabilisticFiltering.ipynb
+[NotebookApp | INFO] Kernel restarted: 44eb1c3e-e37e-4925-84a6-e07c5174ee83
+[NotebookApp | INFO] Saving file at /ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/imgs/particleprocess.png (::1): No such file or directory: imgs/particleprocess.png
+[NotebookApp | WARNING] 404 GET /notebooks/imgs/particleprocess.png (::1) 1.00ms referer=http://localhost:8891/notebooks/ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/imgs/anglepose.jpg (::1): No such file or directory: imgs/anglepose.jpg
+[NotebookApp | WARNING] 404 GET /notebooks/imgs/anglepose.jpg (::1) 1.50ms referer=http://localhost:8891/notebooks/ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/imgs/landscape.png (::1): No such file or directory: imgs/landscape.png
+[NotebookApp | WARNING] 404 GET /notebooks/imgs/landscape.png (::1) 2.01ms referer=http://localhost:8891/notebooks/ProbabilisticFiltering.ipynb
+[NotebookApp | INFO] Saving file at /ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook ProbabilisticFiltering.ipynb
+[NotebookApp | INFO] Saving file at /ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/imgs/recursive.png (::1): No such file or directory: imgs/recursive.png
+[NotebookApp | WARNING] 404 GET /notebooks/imgs/recursive.png (::1) 2.01ms referer=http://localhost:8891/notebooks/ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | INFO] Saving file at /ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | INFO] Saving file at /ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | INFO] Saving file at /ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | INFO] Saving file at /ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | INFO] Saving file at /ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | INFO] Saving file at /ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | INFO] Saving file at /ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/imgs/gesture.png (::1) 1.00ms
+[NotebookApp | INFO] Saving file at /ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | INFO] Saving file at /ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | INFO] Saving file at /ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | INFO] Saving file at /ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | INFO] Saving file at /ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | INFO] Saving file at /ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | INFO] Saving file at /ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | INFO] Saving file at /ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | INFO] Saving file at /ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | INFO] Saving file at /ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | INFO] Saving file at /ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | WARNING] Saving untrusted notebook ICMI2017_ProbabilisticFiltering.ipynb
+[NotebookApp | INFO] Saving file at /ICMI2017_ProbabilisticFiltering.ipynb
